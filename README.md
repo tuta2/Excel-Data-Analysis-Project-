@@ -13,3 +13,5 @@ Integrated maps to provide visual geographical insights and enhance data interpr
 ## Dashboard Development
 Designed and constructed interactive dashboards that consolidate various data visualizations for effective decision-making.
 These skills have significantly enhanced my ability to transform raw data into meaningful insights and visually appealing reports.
+##Final Dashboard 
+![Uploading image.png…]()
