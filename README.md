@@ -13,5 +13,7 @@ Integrated maps to provide visual geographical insights and enhance data interpr
 ## Dashboard Development
 Designed and constructed interactive dashboards that consolidate various data visualizations for effective decision-making.
 These skills have significantly enhanced my ability to transform raw data into meaningful insights and visually appealing reports.
-##Final Dashboard 
+## Final Dashboard 
+![Call center dashboard](https://github.com/user-attachments/assets/be8e0f7f-0845-4404-8e41-61334d107f2b)
 ![Uploading image.png…]()
+
